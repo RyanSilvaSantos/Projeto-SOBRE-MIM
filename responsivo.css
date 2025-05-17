@@ -1,0 +1,51 @@
+@media screen and (max-width:664px) {
+    section {
+
+        margin: 10px;
+        padding: 0px;
+        }
+        
+    
+        header{
+          text-align: center;
+            padding: 10px;
+
+          }
+
+          h1{
+            text-align: center;
+            
+        }
+
+        .h2-principal{
+        
+
+          text-align: center;
+        }
+
+        .p1{
+
+          font-size: 30px;
+        }
+
+        .h2-projeto{
+          text-align: center;
+        }
+
+        h3{
+
+          text-align: center;
+        }
+
+        
+          
+        
+
+    
+    
+
+
+
+
+
+}
